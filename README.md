@@ -32,7 +32,7 @@ This repository provides  resources and informations about **autonomous mobile r
 * "Open Source Rover" {OSR} Open Source rover from JPL using the Rocker-Bogie prevalent on JPLs Mars Rovers. 
     * https://github.com/nasa-jpl/open-source-rover 
 
-# 3_wheeled_suspension_and_drive_trains
+# 3_Wheeled_Suspension_And_Drive_Trains
 *  Double Wishbone
    * ![Image of Earthling Wishbone](https://github.com/Open-Mobile-Robotics/awesome-mobile-robots/blob/main/images/earthling-double-wishbone-overhead.png)
 * Triple Bogie
