@@ -32,7 +32,8 @@ This repository provides  resources and informations about **autonomous mobile r
     * https://github.com/nasa-jpl/open-source-rover 
 
 # 3_wheeled_suspension_and_drive_trains
-* ![Image of Earthling Wishbone](https://github.com/Open-Mobile-Robotics/awesome-mobile-robots/blob/main/images/earthling-double-wishbone-overhead.png)
+*  Double Wishbone
+  * ![Image of Earthling Wishbone](https://github.com/Open-Mobile-Robotics/awesome-mobile-robots/blob/main/images/earthling-double-wishbone-overhead.png)
 -----
 
 ## License
