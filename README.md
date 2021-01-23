@@ -35,11 +35,11 @@ This repository provides  resources and informations about **autonomous mobile r
 *  Double Wishbone
    ![Image of Earthling Wishbone](https://github.com/Open-Mobile-Robotics/awesome-mobile-robots/blob/main/images/earthling-double-wishbone-overhead.png)
 * Triple Bogie
-  ![Image of Earthling triple-bogie] (https://github.com/Open-Mobile-Robotics/awesome-mobile-robots/blob/main/images/earthling-triple-bogie-overhead.png)
+  ![Image of Earthling triple-bogie](https://github.com/Open-Mobile-Robotics/awesome-mobile-robots/blob/main/images/earthling-triple-bogie-overhead.png)
 * Double Rocker Style 
-  ![Image of Earthling Rocker] (https://github.com/Open-Mobile-Robotics/awesome-mobile-robots/blob/main/images/earthling-rockers-overhead.png)
+  ![Image of Earthling Rocker](https://github.com/Open-Mobile-Robotics/awesome-mobile-robots/blob/main/images/earthling-rockers-overhead.png)
 * Tracks
-  ![Image of Earthling Rocker] (https://github.com/Open-Mobile-Robotics/awesome-mobile-robots/blob/main/images/earthling-tracks-overhead.png)
+  ![Image of Earthling Rocker](https://github.com/Open-Mobile-Robotics/awesome-mobile-robots/blob/main/images/earthling-tracks-overhead.png)
 -----
 
 ## License
