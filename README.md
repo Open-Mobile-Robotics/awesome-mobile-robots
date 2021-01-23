@@ -12,7 +12,6 @@ This repository provides  resources and informations about **autonomous mobile r
 # 0_Mobile_Robotics_Frameworks
 
 
-📖 Frameworks
  * "ESROCOS" {ESROCOS}
    * https://www.h2020-esrocos.eu/ 
  * "AutoWare.Auto" {AutoWare.Auto} Ros2 Fork for Safety Critical Applications
@@ -22,7 +21,6 @@ This repository provides  resources and informations about **autonomous mobile r
 
 # 1_Useful_Reading 
 
-📜 Useful Reading
  * "A Review of Mobile Robots" {Rubio, Valero}: https://journals.sagepub.com/doi/full/10.1177/1729881419839596  
  
  # 2_Open_Source_Mobile_robots 
