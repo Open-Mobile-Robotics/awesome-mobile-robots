@@ -6,14 +6,7 @@ This repository provides  resources and informations about **autonomous mobile r
 * [0.Mobile-Robotics-Frameworks](README.md#0_mobile_robotics_frameworks)
 * [1.Useful-Reading](README.md#1_useful_reading)
 * [2.Open-Source-Mobile-Robots](README.md#2_open_source_mobile_robots)
-* [3.Robotic-Sensing](README.md#3_robotic_sensing)
-* [4.Calibration](README.md#4_calibration)
-* [5.Odometry](README.md#5_odometry)
-* [6.SLAM](README.md#6_slam)
-* [7.Localization](README.md#7_localization)
-* [8.Mapping](README.md#8_mapping)
-* [9.Navigation](README.md#9_navigation)
-* [10.Manipulation](README.md#10_manipulation)
+
 
 
 # 0_Mobile_Robotics_Frameworks
