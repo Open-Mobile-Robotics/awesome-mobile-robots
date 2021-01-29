@@ -23,7 +23,8 @@ This repository provides  resources and informations about **autonomous mobile r
 # 1_Useful_Reading 
 
  * "A Review of Mobile Robots" {Rubio, Valero}: https://journals.sagepub.com/doi/full/10.1177/1729881419839596  
- 
+ * "Robotics Knowledge Database": http://bohg.cs.stanford.edu/list/database.php?random=1
+
 # 2_Open_Source_Mobile_robots 
 * "EXOMY" {EXOMY} Open Source 3d printed rover from EESA with all wheel steer/all wheel drive. 
    * https://esa-prl.github.io/ExoMy/ 
